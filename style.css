@@ -2,7 +2,7 @@
   display: flex;
 }
 .half-width {
-  width: 50%;
+  width: 45%;
 }
 .half-width img {
   width: 70%;
@@ -25,23 +25,47 @@
   background-color: #edf5f6;
   border-radius: 10px;
   padding: 20px;
+  width: 25%;
 }
 #mission-item-2 {
   background-color: #ffeeee;
   border-radius: 10px;
   padding: 20px;
+  width: 25%;
 }
 #mission-item-3 {
   background-color: #fff4d6;
   border-radius: 10px;
   padding: 20px;
+  width: 25%;
 }
 .my-mission {
   display: flex;
+  justify-content: space-around;
 }
 
 .develop-without-limit {
   display: flex;
+  margin: 80px;
 }
-develop-without-limit img {
+.know-global-community {
+  display: flex;
+  margin: 80px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+}
+.contact-form {
+  background-color: gray;
+  padding: 20px;
+  text-align: center;
+  border-radius: 5px;
 }
