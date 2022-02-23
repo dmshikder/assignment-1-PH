@@ -81,7 +81,7 @@ footer {
   margin-bottom: 30px;
 }
 .contact-form {
-  background-color: gray;
+  background-color: rgba(233, 233, 233, 0.623);
   padding: 20px;
   text-align: center;
   border-radius: 5px;
@@ -91,4 +91,12 @@ footer {
 }
 .flexible-container {
   margin: 20px;
+}
+.contact-me {
+  text-align: center;
+  background-image: linear-gradient(rgb(13, 192, 58), rgb(16, 136, 136));
+  border-radius: 100px;
+  color: white;
+  padding: 10px;
+  font-size: 30px;
 }
