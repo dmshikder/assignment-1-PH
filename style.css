@@ -1,0 +1,47 @@
+.uper-sec {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+}
+.half-width img {
+  width: 70%;
+}
+.linked-button {
+  text-decoration: none;
+  background-image: linear-gradient(tomato, rgb(216, 75, 10));
+  padding: 10px;
+  color: white;
+  font-weight: 400px;
+  border-radius: 7px;
+  margin-top: 8px;
+}
+#focus {
+  border-left: 4px solid tomato;
+  border-image-slice: 1;
+  padding-left: 10px;
+}
+#mission-item-1 {
+  background-color: #edf5f6;
+  border-radius: 10px;
+  padding: 20px;
+}
+#mission-item-2 {
+  background-color: #ffeeee;
+  border-radius: 10px;
+  padding: 20px;
+}
+#mission-item-3 {
+  background-color: #fff4d6;
+  border-radius: 10px;
+  padding: 20px;
+}
+.my-mission {
+  display: flex;
+}
+
+.develop-without-limit {
+  display: flex;
+}
+develop-without-limit img {
+}
