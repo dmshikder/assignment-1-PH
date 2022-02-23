@@ -7,9 +7,7 @@ body {
   justify-content: space-around;
   margin: 20px;
 }
-.uper-sec {
-  margin: 20px;
-}
+
 .half-width {
   width: 45%;
 }
@@ -29,6 +27,7 @@ body {
   border-left: 4px solid tomato;
   border-image-slice: 1;
   padding-left: 10px;
+  font-size: 25px;
 }
 #mission-item-1 {
   background-color: #edf5f6;
@@ -50,7 +49,7 @@ body {
 }
 
 .develop-without-limit {
-  margin: 80px;
+  margin-top: 100px;
   padding-left: 50px;
   background-image: url(images/shapes/half-circle.png);
   background-repeat: no-repeat;
@@ -83,9 +82,8 @@ footer {
 
 .contact-me {
   text-align: center;
-  background-image: linear-gradient(rgb(13, 192, 58), rgb(16, 136, 136));
+  background-image: linear-gradient(rgb(13, 224, 224), rgb(192, 233, 10));
   border-radius: 100px;
-  color: white;
   padding: 10px;
   font-size: 30px;
 }
